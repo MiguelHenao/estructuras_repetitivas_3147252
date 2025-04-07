@@ -34,3 +34,11 @@ while condicional:
 INSTRUCCION 1
 INSTRUCCION 2 ...
 ```
+
+```
+for <variable_almacenamiento> in coleccion:
+    INSTRUCCION 1
+    INSTRUCCION 2
+
+    INSTRUCCION 3
+```
